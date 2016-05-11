@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://localhost:83" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/10/2016 14:48:47" />
+    <file relUrl="UserNamePassService.svc" publishTime="05/10/2016 11:04:01" />
+    <file relUrl="bin/Website.pdb" publishTime="05/10/2016 14:48:40" />
+    <file relUrl="bin/AutenticacaoService.dll" publishTime="05/10/2016 14:48:40" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/10/2016 09:57:52" />
+    <file relUrl="bin/AutenticacaoService.pdb" publishTime="05/10/2016 14:48:40" />
+    <file relUrl="Global.asax" publishTime="05/10/2016 09:57:52" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/10/2016 09:57:52" />
+    <file relUrl="Default.aspx" publishTime="05/10/2016 09:57:52" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/10/2016 09:57:52" />
+    <file relUrl="bin/Website.dll" publishTime="05/10/2016 14:48:41" />
+  </publishProfile>
+</publishData>

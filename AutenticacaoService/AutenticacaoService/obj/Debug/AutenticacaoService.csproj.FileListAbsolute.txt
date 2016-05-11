@@ -1,0 +1,10 @@
+C:\inetpub\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.dll.config
+C:\inetpub\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.dll
+C:\inetpub\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.pdb
+C:\inetpub\AutenticacaoService\AutenticacaoService\obj\Debug\AutenticacaoService.dll
+C:\inetpub\AutenticacaoService\AutenticacaoService\obj\Debug\AutenticacaoService.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.dll.config
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.dll
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\AutenticacaoService\bin\Debug\AutenticacaoService.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\AutenticacaoService\obj\Debug\AutenticacaoService.dll
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\AutenticacaoService\obj\Debug\AutenticacaoService.pdb

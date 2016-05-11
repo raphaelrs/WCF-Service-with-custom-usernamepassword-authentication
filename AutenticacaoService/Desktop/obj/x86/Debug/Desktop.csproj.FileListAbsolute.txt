@@ -1,0 +1,14 @@
+C:\inetpub\AutenticacaoService\Desktop\bin\Debug\Desktop.exe
+C:\inetpub\AutenticacaoService\Desktop\bin\Debug\Desktop.pdb
+C:\inetpub\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.Properties.Resources.resources
+C:\inetpub\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.csproj.GenerateResource.Cache
+C:\inetpub\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.exe
+C:\inetpub\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\bin\Debug\Desktop.exe.config
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\bin\Debug\Desktop.exe
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\bin\Debug\Desktop.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.Form1.resources
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.Properties.Resources.resources
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.csproj.GenerateResource.Cache
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.exe
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Desktop\obj\x86\Debug\Desktop.pdb

@@ -1,0 +1,12 @@
+C:\inetpub\AutenticacaoService\Website\bin\Website.dll
+C:\inetpub\AutenticacaoService\Website\bin\Website.pdb
+C:\inetpub\AutenticacaoService\Website\obj\Debug\Website.dll
+C:\inetpub\AutenticacaoService\Website\obj\Debug\Website.pdb
+C:\inetpub\AutenticacaoService\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\bin\Website.dll
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\bin\Website.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\bin\AutenticacaoService.dll
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\bin\AutenticacaoService.pdb
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\obj\Debug\Website.dll
+D:\Users\t072911934\Documents\Visual Studio 2010\Projects\AutenticacaoService\Website\obj\Debug\Website.pdb
